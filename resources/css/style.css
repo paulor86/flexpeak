@@ -1,0 +1,10 @@
+.default-margin-top{
+    margin-top: 20px;
+}
+.default-padding{
+    padding-top: 5px;
+}
+.default-border{
+    border:1px solid #ccc;
+    border-radius:5px;
+}
